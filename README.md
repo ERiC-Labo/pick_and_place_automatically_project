@@ -1,5 +1,5 @@
 # pick_and_place_automatically_projeject
-
+陸研修室ではばら積み物体に対して自動的に座標を判別して、把持するタスクに取り組みました。
 ## 全体の実行
 <p align="center"><img src="https://github.com/ERiC-Labo/pick_and_place_automatically_projeject/blob/main/images/output_tsuchida.gif" width="900px" height="450px"></p>
 
