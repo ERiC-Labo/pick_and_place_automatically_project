@@ -1,5 +1,8 @@
 # pick_and_place_automatically_projeject
 
+## 全体の実行
+<p align="center"><img src="https://github.com/ERiC-Labo/pick_and_place_automatically_projeject/blob/main/images/output_tsuchida.gif" width="600px" height="300px"></p>
+
 ## 手順
 ### Step1: センサ点群を入手する
 <p align="center"><img src="https://github.com/ERiC-Labo/pick_and_place_automatically_projeject/blob/main/images/ima.png" width="600px" height="300px"></p>
@@ -29,4 +32,5 @@ Step3で画像中の矩形を検出しました。点群と画像を対応させ
 ### Step6: 物体の姿勢推定のAIを用いて求める物体の姿勢を推定する
 <p align="center"><img src="https://github.com/ERiC-Labo/pick_and_place_automatically_projeject/blob/main/images/ima_5.png" width="600px" height="300px"></p>
 ３次元物体の姿勢を推定するAIを用いて把持対象物の姿勢を推定します。
+
 
