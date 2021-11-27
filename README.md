@@ -1,7 +1,7 @@
 # pick_and_place_automatically_projeject
 
 ## 全体の実行
-<p align="center"><img src="https://github.com/ERiC-Labo/pick_and_place_automatically_projeject/blob/main/images/output_tsuchida.gif" width="800px" height="300px"></p>
+<p align="center"><img src="https://github.com/ERiC-Labo/pick_and_place_automatically_projeject/blob/main/images/output_tsuchida.gif" width="900px" height="450px"></p>
 
 ## 手順
 ### Step1: センサ点群を入手する
