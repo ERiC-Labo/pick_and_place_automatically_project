@@ -21,7 +21,8 @@
 
 ### Step4: Step3の矩形情報から点群を取る範囲を絞る
 <p align="center"><img src="https://github.com/ERiC-Labo/pick_and_place_automatically_projeject/blob/main/images/ima_3.png" width="600px" height="300px"></p>
-Step3で画像中の矩形を検出しました。点群と画像を対応させて、矩形に対応する点群のみを抽出させると画像のように、点群を抽出させることができます。
+Step3で画像中の矩形を検出しました。点群と画像を対応させて、矩形に対応する点群のみを抽出させると画像のように、点群を抽出させることができます。ちなみに以下の図の原理を用いて、点群と画像を対応させいています。
+<p align="center"><img src="https://github.com/ERiC-Labo/pick_and_place_automatically_projeject/blob/main/images/image_1.png" width="300px" height="150px"></p>
 
 
 ### Step5: さらに雑音成分を除去する(3次元のセマンティックセグメンテーションのAI)
@@ -33,4 +34,5 @@ Step3で画像中の矩形を検出しました。点群と画像を対応させ
 <p align="center"><img src="https://github.com/ERiC-Labo/pick_and_place_automatically_projeject/blob/main/images/ima_5.png" width="600px" height="300px"></p>
 ３次元物体の姿勢を推定するAIを用いて把持対象物の姿勢を推定します。
 
+## 今後の予定
 
